@@ -5,11 +5,11 @@
 </br>
 <div align="center"><img src="./img/001.jpg" style="width:90%;"></div>
 </br></br>
-<p style="text-align: justify;">Entonces <a href="https://github.com">GITHUB</a> manda un correo con unos códigos que sirven para validar la cuenta.</p>
+<p style="text-align: justify;">Entonces <a href="https://github.com">GITHUB</a> manda un correo con un código que sirve para validar la cuenta.</p>
 </br>
 <div align="center"><img src="./img/002.jpg" style="width:90%;"></div>
 </br></br>
-<p style="text-align: justify;">Una vez creada la cuenta ya se pueden crear repositorios, o bien creándolos de cero o bien haciendo un "fork" de algún repositorio ya existente en alguna otra cuenta.</p>
+<p style="text-align: justify;">Una vez creada la cuenta ya se pueden añadir repositorios, o bien creándolos de cero o bien haciendo un "fork" de algún repositorio ya existente en alguna otra cuenta.</p>
 </br>
 <div align="center"><img src="./img/003.jpg" style="width:90%;"></div>
 </br></br>
