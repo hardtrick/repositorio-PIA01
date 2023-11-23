@@ -12,3 +12,7 @@
 <p style="text-align: justify;">Una vez creada la cuenta ya se pueden crear repositorios, o bien creándolos de cero o bien haciendo un "fork" de algún repositorio ya existente en alguna otra cuenta.</p>
 </br>
 <div align="center"><img src="./img/003.jpg" style="width:90%;"></div>
+</br></br>
+<p style="text-align: justify;">Después de haber creado un repositorio se pueden añadir los archivos que se desee tener dentro de él. Si es necesario se le puede dar una estructura de directorios para mantener agrupaciones de archivos, por ejemplo, para separar imágenes del resto de contenido.</p>
+</br>
+<div align="center"><img src="./img/004.jpg" style="width:90%;"></div>
